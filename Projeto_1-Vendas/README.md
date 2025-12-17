@@ -20,7 +20,7 @@ O dashboard foi desenvolvido para ser intuitivo, permitindo que qualquer usuári
 ![Dashboard](Imagens/dashboard-vendas.png)
 
 ### Detalhes por Vendedor
-![Vendedores](Imagens/vendas-vendedores.png)
+![Vendedores](Imagens/vendas_vendedores.png)
 
 ### Detalhes de vendas por Supervisor
 ![Equipe de Vendas](Imagens/vendas_supervisores.png)
